@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidChallenge1</string>
+    <string name="title_text">Google Africa Scholarship</string>
+    <string name="andela_text">Andela Learning Community</string>
+    <string name="profile">My Profile</string>
+    <string name="about_alc">About ALC</string>
+</resources>
