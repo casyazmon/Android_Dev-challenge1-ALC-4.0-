@@ -1,7 +1,12 @@
 <resources>
     <string name="app_name">AndroidChallenge1</string>
     <string name="title_text">Google Africa Scholarship</string>
-    <string name="andela_text">Andela Learning Community</string>
+    <string name="andela_text">Andela Learning Community (ALC 4.0)</string>
     <string name="profile">My Profile</string>
     <string name="about_alc">About ALC</string>
+    <string name="name">Akap Azmon Deh-nji</string>
+    <string name="email">Email : casyazmon@gmail.com</string>
+    <string name="nickname">(@Casy)</string>
+    <string name="about_me">About Me</string>
+    <string name="alc4">Android Dev Challenge</string>
 </resources>
